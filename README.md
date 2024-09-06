@@ -1,6 +1,6 @@
 # MetCap probes
 
-This repo contains information related to the trials of probe generation with sequences that I recieved from [Henri][henri.siljanen@uef.fi] using the [MetCap][https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0501-8] pipeline  
+This repo contains information related to the trials of probe generation with sequences that I recieved from [Henri](henri.siljanen@uef.fi) using the [MetCap](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0501-8) pipeline  
 
 ## Overview
 
