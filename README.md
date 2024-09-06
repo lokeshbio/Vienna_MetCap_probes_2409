@@ -1,8 +1,6 @@
-# Support NNNN 
+# MetCap probes
 
-**Title of the project from redmine issue**
-
-Description from the redmine issue.
+This repo contains information related to the trials of probe generation with sequences that I recieved from [Henri][henri.siljanen@uef.fi] using the [MetCap][https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0501-8] pipeline  
 
 ## Overview
 
@@ -10,24 +8,10 @@ Description from the redmine issue.
 project
 |- code/               all code needed to go from input files to final results
 |
-|- config/             project specific config files that are used in pipelines
-|
 |- data/               raw and primary data, essentially all input files, never edit!
 |                      (ignored with .gitignore)
 |
 |- doc/                documentation for and related to the study
-|
-|- envs/
-|  |- environment.yml     software dependencies list, used to create a project environment
-|  |- Dockerfile          recipe to create a project container
-|
-|- intermediate/       output files from different analysis steps, can be deleted
-|                      (ignored with .gitignore)
-|
-|- logs/               logs from the different analysis steps
-|                      (ignored with .gitignore)
-|
-|- reports/            Project report
 |
 |- results/            output from workflows and analyses
 |  |- Stats/           project specific statistical analysis documents (usually *qmd/*html)
